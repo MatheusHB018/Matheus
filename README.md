@@ -1,14 +1,14 @@
-# # Mathues 
+# # Mathues Bispo
 
 ## Sobre Mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC de Presidente Prudente-SP.
 - 🚀 Explorando frontend, backend, banco de dados e muito mais para evoluir como desenvolvedor.
-- 📚 Apaixonado por aprender e colocar em prática.
+- 📚 Adoro aprender e colocar em pratica, mas eu gosto bastante de criar ideas e trabalhar em gropos.
 
 ---
 
 ## Projetos em Andamento
-- **BG-BJ TECH**: Sistema de gestão para bares e restaurantes.
+- (https://github.com/buja23/BG-BJ-tec.git) **BG-BJ TECH**: Sistema de gestão para bares e restaurantes.
 
 ---
 
@@ -16,22 +16,23 @@
 > Nota: Não domino tudo ainda, mas estou sempre estudando para melhorar 💪
 
 ### Linguagens & Banco de Dados:
-- 🖋️ HTML5, CSS3, JavaScript
-- 🗄️ MySQL, MongoDB, PHP
+- 🖋️ [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🗄️ [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [PHP](https://www.php.net/)
 
 ### Estudando Agora:
-- 🐍 Python
-- 🏗️ TypeScript
+- 🐍 [Python](https://www.python.org/)
+- 🏗️ [TypeScript](https://www.typescriptlang.org/)
 
 ### Já Tive Contato:
-- 💻 C++, C#, Java
+- 💻 [C++](https://cplusplus.com/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Java](https://www.java.com/en/)
 
 ### Frameworks e Ferramentas:
-- ⚛️ React
-- 🟢 Node.js
-- 🦅 Laravel
-- 🖼️ Vue.js
-- 🎥 FFmpeg
+### Frameworks e Ferramentas:
+- ⚛️ [React](https://pt-br.reactjs.org/)
+- 🟢 [Node.js](https://nodejs.org/)
+- 🦅 [Laravel](https://laravel.com/)
+- 🖼️ [Vue.js](https://vuejs.org/)
+- 🎥 [FFmpeg](https://ffmpeg.org/)
 
 ---
 
@@ -41,10 +42,5 @@
 - 🛠️ **Total de PRs enviados**: 0
 - 🐞 **Total de issues abertas**: 0
 - 🌟 **Contribuiu em (último ano)**: 1
-
-### Linguagens Mais Usadas:
-- (Sem dados disponíveis sobre linguagens.)
-
----
 
 Se precisar de algum ajuste ou algo extra, me avise! 😊
