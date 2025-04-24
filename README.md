@@ -28,7 +28,6 @@
 - 💻 [C++](https://cplusplus.com/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Java](https://www.java.com/en/)
 
 ### Frameworks e Ferramentas:
-### Frameworks e Ferramentas:
 - 🟢 [Node.js](https://nodejs.org/)
 - 🦅 [Laravel](https://laravel.com/)
 - 🖼️ [Vue.js](https://vuejs.org/)
