@@ -17,7 +17,7 @@
 > Nota: Não domino tudo ainda, mas estou sempre estudando para melhorar 💪
 
 ### Linguagens & Banco de Dados:
-- 🖋️ [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🖋️ [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/), [CSS3](https://www.w3.org/Style/CSS/Overview.en.html), [Bulma-CSS](https://bulma.io/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🗄️ [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [PHP](https://www.php.net/)
 
 ### Estudando Agora:
@@ -29,7 +29,6 @@
 
 ### Frameworks e Ferramentas:
 ### Frameworks e Ferramentas:
-- ⚛️ [React](https://pt-br.reactjs.org/)
 - 🟢 [Node.js](https://nodejs.org/)
 - 🦅 [Laravel](https://laravel.com/)
 - 🖼️ [Vue.js](https://vuejs.org/)
